@@ -8,3 +8,12 @@
 > https://www.brianstorti.com/the-actor-model/
 
 
+##  Event Models
+
+ + Emitter
+ + Receiver
+ + Event Object
+
+
+
+
